@@ -12,7 +12,7 @@ Before you begin, ensure that you have the following installed on your system:
 1. **Clone the repository** to your local machine using the following command:
 
     ```bash
-    git clone [repository-url](https://github.com/sanskriti0606/Spotify06)
+    git clone [repository-url](https://github.com/sanskriti0606/SpotifyApp)
     ```
 
 3. **Install the dependencies** by running either of the following commands:
