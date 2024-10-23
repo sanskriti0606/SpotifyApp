@@ -105,9 +105,11 @@ Inspired by Spotify
 Thanks to Next.js, Tailwind CSS, MongoDB, Express, and Mongoose for their powerful tools.
 Feel free to adjust the URLs and any specific details as necessary for your project.
 
-![image](https://github.com/user-attachments/assets/f969fe5c-a226-4369-9f49-a40678809f98) 
-![image](https://github.com/user-attachments/assets/28bd3378-9db8-4ba5-a90a-d473d5c62283)
-![image](https://github.com/user-attachments/assets/8b316606-4d92-4243-99ee-9d588dc01bc2)
+![image](https://github.com/user-attachments/assets/dd769b0d-788f-4bae-9ac9-d3ec050a9d06)
+![image](https://github.com/user-attachments/assets/b1326e35-4ee7-4ae1-a096-624f3a555d4c)
+![image](https://github.com/user-attachments/assets/905de550-b348-46da-ab90-eb341aeb5ebc)
+![image](https://github.com/user-attachments/assets/0458ff98-a72a-44c2-aab0-dd19acafe11e)
+
 
 
 
