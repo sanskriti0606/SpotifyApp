@@ -88,7 +88,7 @@ PUT /api/playlists/
 ## API Documentation : 
 **https://documenter.getpostman.com/view/37832607/2sAXjSyoKV**
 
-**Deployement Link** : https://spotifyclient-five.vercel.app/
+**Deployement Link** : https://spotify-app-inky.vercel.app/
 
 **Contributing**
 Fork the repository.
